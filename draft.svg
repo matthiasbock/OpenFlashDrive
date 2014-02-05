@@ -18,7 +18,7 @@
    viewBox="0 0 686.69566 429.05067"
    id="svg3319"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="draft.svg"><metadata
+   sodipodi:docname="Schema.svg"><metadata
    id="metadata3597"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
@@ -38,9 +38,9 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="1.0661844"
-   inkscape:cx="331.18005"
-   inkscape:cy="212.69012"
+   inkscape:zoom="1.1367492"
+   inkscape:cx="331.80209"
+   inkscape:cy="247.87818"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -1006,6 +1006,7 @@
      style="font-size:10px">SD</tspan></text>
 
 
+
 <g
    id="g3391"><rect
      id="rect3393"
@@ -1082,6 +1083,7 @@
 
 
 
+
 <text
    id="text3419"
    xml:space="preserve"
@@ -1093,6 +1095,7 @@
      id="tspan3421"
      x="24.400009"
      y="21.199997">1</tspan></text>
+
 
 
 
@@ -1110,6 +1113,7 @@
 
 
 
+
 <text
    id="text3427"
    xml:space="preserve"
@@ -1121,6 +1125,7 @@
      id="tspan3429"
      x="48.299942"
      y="21.030075">3</tspan></text>
+
 
 
 
@@ -1138,6 +1143,7 @@
 
 
 
+
 <text
    id="text3435"
    xml:space="preserve"
@@ -1149,6 +1155,7 @@
      id="tspan3437"
      x="72.900223"
      y="21.030075">5</tspan></text>
+
 
 
 
@@ -1166,6 +1173,7 @@
 
 
 
+
 <text
    id="text3443"
    xml:space="preserve"
@@ -1180,6 +1188,7 @@
 
 
 
+
 <text
    id="text3447"
    xml:space="preserve"
@@ -1191,6 +1200,7 @@
      id="tspan3449"
      x="107.18555"
      y="21.030075">8</tspan></text>
+
 
 
 
@@ -1230,6 +1240,7 @@
      y="161"
      font-size="10px"
      style="font-size:10px">SD</tspan></text>
+
 
 <g
    id="g3391-6"><rect
@@ -1305,6 +1316,7 @@
      x="10.400009"
      y="32.799999">9</tspan></text>
 
+
 <text
    id="text3419-1"
    xml:space="preserve"
@@ -1316,6 +1328,7 @@
      id="tspan3421-2"
      x="24.400009"
      y="21.199997">1</tspan></text>
+
 
 <text
    id="text3423-2"
@@ -1329,6 +1342,7 @@
      x="36.100098"
      y="21.199997">2</tspan></text>
 
+
 <text
    id="text3427-9"
    xml:space="preserve"
@@ -1340,6 +1354,7 @@
      id="tspan3429-2"
      x="48.299942"
      y="21.030075">3</tspan></text>
+
 
 <text
    id="text3431-9"
@@ -1353,6 +1368,7 @@
      x="60.200073"
      y="21.200001">4</tspan></text>
 
+
 <text
    id="text3435-9"
    xml:space="preserve"
@@ -1364,6 +1380,7 @@
      id="tspan3437-4"
      x="72.900223"
      y="21.030075">5</tspan></text>
+
 
 <text
    id="text3439-0"
@@ -1377,6 +1394,7 @@
      x="84.700119"
      y="21.030075">6</tspan></text>
 
+
 <text
    id="text3443-8"
    xml:space="preserve"
@@ -1389,6 +1407,7 @@
      x="96.499634"
      y="21.199997">7</tspan></text>
 
+
 <text
    id="text3447-9"
    xml:space="preserve"
@@ -1400,6 +1419,7 @@
      id="tspan3449-7"
      x="107.18555"
      y="21.030075">8</tspan></text>
+
 
 </g></g><g
    id="g3599-0"
@@ -1437,6 +1457,7 @@
      y="161"
      font-size="10px"
      style="font-size:10px">SD</tspan></text>
+
 
 <g
    id="g3391-5"><rect
@@ -1512,6 +1533,7 @@
      x="10.400009"
      y="32.799999">9</tspan></text>
 
+
 <text
    id="text3419-0"
    xml:space="preserve"
@@ -1523,6 +1545,7 @@
      id="tspan3421-3"
      x="24.400009"
      y="21.199997">1</tspan></text>
+
 
 <text
    id="text3423-7"
@@ -1536,6 +1559,7 @@
      x="36.100098"
      y="21.199997">2</tspan></text>
 
+
 <text
    id="text3427-2"
    xml:space="preserve"
@@ -1547,6 +1571,7 @@
      id="tspan3429-7"
      x="48.299942"
      y="21.030075">3</tspan></text>
+
 
 <text
    id="text3431-2"
@@ -1560,6 +1585,7 @@
      x="60.200073"
      y="21.200001">4</tspan></text>
 
+
 <text
    id="text3435-5"
    xml:space="preserve"
@@ -1571,6 +1597,7 @@
      id="tspan3437-7"
      x="72.900223"
      y="21.030075">5</tspan></text>
+
 
 <text
    id="text3439-8"
@@ -1584,6 +1611,7 @@
      x="84.700119"
      y="21.030075">6</tspan></text>
 
+
 <text
    id="text3443-9"
    xml:space="preserve"
@@ -1596,6 +1624,7 @@
      x="96.499634"
      y="21.199997">7</tspan></text>
 
+
 <text
    id="text3447-2"
    xml:space="preserve"
@@ -1607,6 +1636,7 @@
      id="tspan3449-8"
      x="107.18555"
      y="21.030075">8</tspan></text>
+
 
 </g></g><g
    id="g3599-8"
@@ -1644,6 +1674,7 @@
      y="161"
      font-size="10px"
      style="font-size:10px">SD</tspan></text>
+
 
 <g
    id="g3391-66"><rect
@@ -1719,6 +1750,7 @@
      x="10.400009"
      y="32.799999">9</tspan></text>
 
+
 <text
    id="text3419-9"
    xml:space="preserve"
@@ -1730,6 +1762,7 @@
      id="tspan3421-8"
      x="24.400009"
      y="21.199997">1</tspan></text>
+
 
 <text
    id="text3423-8"
@@ -1743,6 +1776,7 @@
      x="36.100098"
      y="21.199997">2</tspan></text>
 
+
 <text
    id="text3427-3"
    xml:space="preserve"
@@ -1754,6 +1788,7 @@
      id="tspan3429-9"
      x="48.299942"
      y="21.030075">3</tspan></text>
+
 
 <text
    id="text3431-0"
@@ -1767,6 +1802,7 @@
      x="60.200073"
      y="21.200001">4</tspan></text>
 
+
 <text
    id="text3435-7"
    xml:space="preserve"
@@ -1778,6 +1814,7 @@
      id="tspan3437-79"
      x="72.900223"
      y="21.030075">5</tspan></text>
+
 
 <text
    id="text3439-5"
@@ -1791,6 +1828,7 @@
      x="84.700119"
      y="21.030075">6</tspan></text>
 
+
 <text
    id="text3443-3"
    xml:space="preserve"
@@ -1802,6 +1840,7 @@
      id="tspan3445-4"
      x="96.499634"
      y="21.199997">7</tspan></text>
+
 
 <text
    id="text3447-5"
@@ -1815,65 +1854,16 @@
      x="107.18555"
      y="21.030075">8</tspan></text>
 
-</g></g><text
-   xml:space="preserve"
-   style="font-size:12.01983452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="-63.104134"
-   y="52.523632"
-   id="text3678"
-   sodipodi:linespacing="125%"><tspan
-     sodipodi:role="line"
-     id="tspan3680"
-     x="-63.104134"
-     y="52.523632">SATA</tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-size:12.01983452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="716.18182"
-   y="55.528587"
-   id="text3682"
-   sodipodi:linespacing="125%"><tspan
-     sodipodi:role="line"
-     id="tspan3684"
-     x="716.18182"
-     y="55.528587">PATA</tspan></text>
+</g></g>
 
-<text
-   xml:space="preserve"
-   style="font-size:12.01983452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="538.88928"
-   y="-32.828148"
-   id="text3686"
-   sodipodi:linespacing="125%"><tspan
-     sodipodi:role="line"
-     id="tspan3688"
-     x="538.88928"
-     y="-32.828148">USB</tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-size:12.01983452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="60.099174"
-   y="470.21289"
-   id="text3690"
-   sodipodi:linespacing="125%"><tspan
-     sodipodi:role="line"
-     id="tspan3692"
-     x="60.099174"
-     y="470.21289">Arduino</tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-size:12.01983452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="551.91077"
-   y="470.21289"
-   id="text3694"
-   sodipodi:linespacing="125%"><tspan
-     sodipodi:role="line"
-     id="tspan3696"
-     x="551.91077"
-     y="470.21289">Raspberry Pi</tspan></text>
+
+
+
+
+
 
 <text
    xml:space="preserve"
@@ -1887,17 +1877,8 @@
      x="81.805283"
      y="224.87691">sockets for modular readers</tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-size:12.01983452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="210.02263"
-   y="150.80318"
-   id="text3702"
-   sodipodi:linespacing="125%"><tspan
-     sodipodi:role="line"
-     id="tspan3704"
-     x="210.02263"
-     y="150.80318">socket for optional expansion: second layer</tspan></text>
+
+
 
 <text
    xml:space="preserve"
@@ -1911,29 +1892,10 @@
      x="25.041321"
      y="52.523632">power/activity indication LEDs</tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-size:12.01983452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="106.17519"
-   y="-32.986614"
-   id="text3710"
-   sodipodi:linespacing="125%"><tspan
-     sodipodi:role="line"
-     id="tspan3712"
-     x="106.17519"
-     y="-32.986614">RJ45</tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-size:12.01983452px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-   x="315.52066"
-   y="-32.616863"
-   id="text3714"
-   sodipodi:linespacing="125%"><tspan
-     sodipodi:role="line"
-     id="tspan3716"
-     x="315.52066"
-     y="-32.616863">FiberChannel</tspan></text>
+
+
+
 
 <text
    xml:space="preserve"
@@ -1946,4 +1908,5 @@
      id="tspan3315"
      x="83.613213"
      y="195.21602">multiple SPI slaves:</tspan></text>
+
 </svg>
